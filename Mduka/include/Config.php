@@ -2,16 +2,16 @@
 /**
  * Database configuration
  */
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '123ERYcog.');
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'mduka');
-
-
-//define('DB_USERNAME', 'erickogi_erickog');
+//define('DB_USERNAME', 'root');
 //define('DB_PASSWORD', '123ERYcog.');
 //define('DB_HOST', 'localhost');
-//define('DB_NAME', 'erickogi_db');
+//define('DB_NAME', 'mduka');
+
+
+define('DB_USERNAME', 'erickogi_erickog');
+define('DB_PASSWORD', '123ERYcog.');
+define('DB_HOST', 'localhost');
+define('DB_NAME', 'erickogi_db');
 
 define('FIREBASE_API_KEY_STUDENT','AAAAbi1Ox-o:APA91bG7B4os-sqeA11RGavIVclnbq2Yp3y8EP_HXidYzP7hO-PiqafDgn4I-5hchCKDJQr4bHmpNVTaWAjVzsEYU4YTGpyVizbO3VvsT6WpwoOTe6SV2-rrkPWP7X3bUqnZsB9hS8Dt');
 
